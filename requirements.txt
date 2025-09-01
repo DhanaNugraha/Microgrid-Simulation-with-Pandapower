@@ -1,0 +1,11 @@
+pandapower[all]
+matplotlib>=3.0.0
+numpy>=1.15.0
+scipy>=1.1.0
+pandas>=0.23.0
+numba>=0.47.0
+plotly>=4.0.0
+igraph>=0.8.0
+networkx>=2.2
+geopandas>=0.6.0
+tqdm>=4.30.0
